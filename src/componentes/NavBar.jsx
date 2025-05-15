@@ -8,10 +8,10 @@ function NavBar(props) {
     <Container>
       <Navbar bg="dark" variant="dark" fixed="top">
         <Container>
-          <Navbar.Brand href="/">E-Commerce</Navbar.Brand>
+          <Navbar.Brand href="/">Harve E-Commerce</Navbar.Brand>
           <Nav className="me-auto">
             <Nav.Link href="/">Home</Nav.Link>
-            <Nav.Link href="/produtos">Produtos</Nav.Link>
+            <Nav.Link href="/produto">Produtos</Nav.Link>
           </Nav>
           <Navbar.Collapse className="justify-content-end">
             <Navbar.Text>
