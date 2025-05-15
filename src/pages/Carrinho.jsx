@@ -19,7 +19,7 @@ function Carrinho() {
       <NavBar>
         <Row className="justify-content-md-center">
           <Col md={6}>
-            <h1>Lista de produtos carrinho </h1>
+            <h1>Carrinho de compras</h1>
           </Col>
         </Row>
         <Row>
